@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580718210339",
+    "project_id": "fir-complaint-912dc",
+    "storage_bucket": "fir-complaint-912dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580718210339:android:eb01ee2ac131106d3b7096",
+        "android_client_info": {
+          "package_name": "com.example.firebasecomplaint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHBud55-KjV3JZ00hiDU7kdAyS9H9SzA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
